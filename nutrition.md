@@ -3,6 +3,7 @@
 
 ## Only boost Proteins
 - Diary (Magerquark)
+- Harzer Käse (as a snack)
 
 ## Only boost Fats
 - 
