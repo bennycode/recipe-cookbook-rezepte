@@ -4,6 +4,10 @@
 **Prep + cook time:** 25–30 minutes  
 **Style:** High-protein Mediterranean-inspired lunch
 
+## Image
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e57f540d-c515-44a8-b727-4a91dccc534b" />
+
 ## Ingredients
 
 - 200 g chicken breast
